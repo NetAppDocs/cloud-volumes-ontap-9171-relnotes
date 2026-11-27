@@ -17,6 +17,18 @@ Cloud Volumes ONTAP 9.17.1 includes new enhancements.
 
 New Cloud Volumes ONTAP features are also introduced in the latest versions of the NetApp Console. For more information, see what's new in https://docs.netapp.com/us-en/storage-management-cloud-volumes-ontap/whats-new.html[Cloud Volumes ONTAP^] managed in the Console.
 
+== 9.17.1 P12 (23 November 2026)
+The Cloud Volumes ONTAP 9.17.1 P12 patch is now available for upgrade in AWS, Azure, and Google Cloud. The Console will prompt you to upgrade your existing systems to this patch release.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.17.1P12[View the list of bugs fixed in the P12 patch^] (NetApp Support Site login required).
+
+== 9.17.1P11HF1 (2 November 2026)
+The 9.17.1P11HF1 patch is now available for Cloud Volumes ONTAP for all cloud providers. This patch is compatible with ONTAP hotfix for 9.17.1.
+
+For your Cloud Volumes ONTAP systems, you might be prompted to upgrade to this hotfix in the Console. However, this hotfix is supported only when the Console agent version is 4.12.0 or later. If the Console agent version is earlier than 4.12.0, ignore the prompt.
+
+link:https://docs.netapp.com/us-en/console-setup-admin/whats-new.html#console-agent-4-12-0[Console agent 4.12.0^]
+
 == 9.17.1 P8 (22 July 2026)
 The Cloud Volumes ONTAP 9.17.1 P8 patch is now available for upgrade in AWS, Azure, and Google Cloud. The Console will prompt you to upgrade your existing systems to this patch release.
 
